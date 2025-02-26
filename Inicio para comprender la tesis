@@ -1,0 +1,81 @@
+# Matemática Sintética-Categórica-Cuántica (MSCQ)
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)  
+Este repositorio contiene la tesis sobre **Matemática Sintética-Categórica-Cuántica (MSCQ)**, un marco innovador que combina matemáticas sintéticas, teoría de categorías y mecánica cuántica para abordar problemas fundamentales en física, computación y filosofía.
+
+## Índice
+
+1. [Introducción](#1-introducción)
+2. [Fundamentos Teóricos](#2-fundamentos-teóricos)
+3. [Formalización de MSCQ](#3-formalización-de-mscq)
+4. [Aplicaciones de MSCQ](#4-aplicaciones-de-mscq)
+5. [Discusión y Perspectivas Futuras](#5-discusión-y-perspectivas-futuras)
+6. [Conclusión](#6-conclusión)
+
+---
+
+## 1. Introducción
+
+La **Matemática Sintética-Categórica-Cuántica (MSCQ)** surge como una respuesta a los desafíos fundamentales en la unificación de la relatividad general y la mecánica cuántica, la modelización de sistemas cuánticos complejos y la exploración de los fundamentos de la realidad. MSCQ integra tres áreas clave:
+
+- **Matemática sintética**: Un enfoque abstracto que prioriza la estructura global sobre las construcciones explícitas.
+- **Teoría de categorías**: Una herramienta unificadora que describe relaciones entre objetos y transformaciones.
+- **Mecánica cuántica**: La base de nuestra comprensión del mundo subatómico.
+
+### Motivación
+
+Los principales desafíos que MSCQ busca abordar incluyen:
+- La falta de una teoría consistente de gravedad cuántica.
+- La necesidad de modelos matemáticos más abstractos para la computación cuántica.
+- La búsqueda de una comprensión más profunda de la naturaleza de la realidad.
+
+### Objetivos
+
+El objetivo principal de esta tesis es formalizar MSCQ como un marco matemático riguroso y demostrar su aplicabilidad a problemas fundamentales en física, computación y filosofía.
+
+---
+
+## 2. Fundamentos Teóricos
+
+### 2.1 Matemática Sintética
+
+La matemática sintética se basa en principios abstractos y globales para definir y estudiar objetos matemáticos. En lugar de depender de representaciones específicas, busca capturar la esencia de las estructuras matemáticas.
+
+#### Ejemplo: Geometría Sintética
+La geometría sintética de Euclides es un ejemplo clásico que utiliza axiomas y relaciones globales sin recurrir a coordenadas explícitas.
+
+### 2.2 Teoría de Categorías
+
+La teoría de categorías proporciona un lenguaje común para describir estructuras y relaciones entre ellas. Los conceptos básicos incluyen:
+
+- **Objetos**: Entidades abstractas (e.g., conjuntos, espacios vectoriales).
+- **Morfismos**: Flechas que conectan objetos y representan transformaciones.
+- **Categorías monoidales simétricas**: Relevantes para modelar sistemas cuánticos.
+
+#### Ejemplo: Categoría de Espacios Vectoriales
+La categoría de espacios vectoriales sobre un campo dado es un ejemplo de categoría monoidal simétrica.
+
+### 2.3 Mecánica Cuántica
+
+La mecánica cuántica describe el comportamiento de partículas y sistemas a escalas subatómicas. Sus principios fundamentales incluyen:
+
+- **Superposición**: Estados cuánticos pueden combinarse linealmente.
+- **Entrelazamiento**: Partículas pueden estar conectadas incluso a distancias grandes.
+- **Espacios de Hilbert**: Herramientas matemáticas clave para representar estados cuánticos.
+
+---
+
+## 3. Formalización de MSCQ
+
+En este capítulo, definimos MSCQ de manera rigurosa. Los componentes clave incluyen:
+
+- **Objetos cuánticos sintéticos**: Pares $(\mathcal{C}, \mathcal{H})$, donde $\mathcal{C}$ es una categoría monoidal y $\mathcal{H}$ es un espacio de Hilbert.
+- **Morfismos cuánticos sintéticos**: Funtores monoidales simétricos que preservan propiedades cuánticas.
+
+#### Diagrama de MSCQ
+
+```plaintext
+Objeto Cuántico Sintético
+   |
+   v
+Categoría Monoidal Simétrica <--> Espacio de Hilbert
